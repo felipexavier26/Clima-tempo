@@ -2,7 +2,7 @@ function buscar(){
     let = search = document.getElementById("searchInput").value
 
     if(search == '') {
-        alert("Por favor, preenchar o campo cidade!")
+        alert("Por favor, preenchar o campo!")
     }
 }
 
